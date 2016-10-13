@@ -1,5 +1,5 @@
-# kivy-social - WIP
-A soon to be working set of social-networking functionalities for Kivy Apps
+# p4a-social - WIP
+A soon to be working set of social-networking functionalities for P4A/Kivy Apps
 
 # Run on Android with KivyLauncher App: 
 https://play.google.com/store/apps/details?id=org.kivy.pygame&hl=en
